@@ -1,2 +1,2 @@
-# HWS_sql1
-HWS_sql1
+# MY_GETHUP
+MY_GETHUP
